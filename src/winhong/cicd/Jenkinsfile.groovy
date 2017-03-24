@@ -2,7 +2,7 @@
 package winhong.cicd
 
 
-def request = libraryResource 'projects/test.json'
+//def request = libraryResource 'projects/test.json'
 
 
 def call(String name = 'human') {
