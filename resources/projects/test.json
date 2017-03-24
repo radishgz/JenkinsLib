@@ -1,0 +1,12 @@
+{
+  "_links":{
+    "self":{
+      "href":"/jenkins/job/Hello-pipeline/wfapi/describe"
+    },
+    "runs":{
+      "href":"/jenkins/job/Hello-pipeline/wfapi/runs"
+    }
+  },
+  "name":"Hello-pipeline",
+  "runCount":14
+}
