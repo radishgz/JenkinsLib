@@ -1,4 +1,3 @@
-#Main fail
 package winhong.cicd
 
 
