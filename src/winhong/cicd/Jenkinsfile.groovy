@@ -1,3 +1,5 @@
+@Library('cicd')
+
 package winhong.cicd
 
 
